@@ -1,0 +1,11 @@
+product_id,product_name,is_eligible,eligibility_reason,min_order_quantity,max_discount
+1,Gaming Laptop,true,High performance product,1,15
+2,Wireless Headphones,true,Popular audio device,2,20
+3,Smart Watch,true,Trending wearable,1,18
+4,Tablet Pro,false,Limited stock,1,10
+5,Bluetooth Speaker,true,Audio accessories,3,25
+6,4K Monitor,true,Premium display,1,12
+7,Mechanical Keyboard,true,Gaming accessories,2,22
+8,Gaming Mouse,true,Gaming accessories,5,30
+9,Webcam HD,false,Seasonal product,1,8
+10,External SSD,true,Storage solution,1,15

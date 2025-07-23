@@ -1,0 +1,11 @@
+product_id,product_name,ad_spend,clicks,impressions,cpc,ctr
+1,Gaming Laptop,1200.50,450,15000,2.67,3.00
+2,Wireless Headphones,800.25,320,12000,2.50,2.67
+3,Smart Watch,950.75,380,14500,2.50,2.62
+4,Tablet Pro,1100.00,400,16000,2.75,2.50
+5,Bluetooth Speaker,600.30,240,10000,2.50,2.40
+6,4K Monitor,1350.80,500,18000,2.70,2.78
+7,Mechanical Keyboard,450.60,180,8000,2.50,2.25
+8,Gaming Mouse,320.40,128,6400,2.50,2.00
+9,Webcam HD,275.25,110,5500,2.50,2.00
+10,External SSD,890.75,356,14240,2.50,2.50
